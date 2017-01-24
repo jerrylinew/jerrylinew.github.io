@@ -1,3 +1,3 @@
 $(document).ready(function() {
-  // Your Javascript code here
+    $('#logo').fadeIn(2000);
 });

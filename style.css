@@ -1,0 +1,36 @@
+body{
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color: #b0e0f5 !important;
+}
+
+nav {
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav li{
+    display: inline;
+    font-size: 20px;
+    color: white;
+}
+
+.main{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#logo{
+    display: none;
+    margin-bottom: 30px;
+}
+
+.buttons{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#subscribe{
+    margin-right: 10px;
+}
